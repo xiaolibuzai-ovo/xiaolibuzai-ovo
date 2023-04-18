@@ -15,7 +15,7 @@
 - ##### Q/V:3163678221（欢迎➕ 交友,学习,捞我简历😘）  
   
 
-- ##### 热爱后端.大数据技术栈/系统设计/场景业务场景,欢迎大佬们指点！🥰  
+- ##### 热爱后端.大数据技术栈/系统设计/常见业务场景,欢迎大佬们指点！🥰  
   
 
 <img src="https://github-readme-stats.vercel.app/api?username=xiaolibuzai-ovo&show_icons=true&count_private=true&hide_border=true" align="left" />  
