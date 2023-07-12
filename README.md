@@ -16,10 +16,8 @@
   
 
 - ##### 后端小萌新,欢迎大佬们指点！🥰  
+
   
-
-<img src="https://github-readme-stats.vercel.app/api?username=xiaolibuzai-ovo&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 </td></tr></table>  
 
 <br/>  
