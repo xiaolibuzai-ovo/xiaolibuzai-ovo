@@ -1,5 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height: 150px" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+I+am+xiaolibuzai+%F0%9F%91%8B;A+back-end+development+engineer)](https://git.io/typing-svg)
 
 
 </td></tr></table>  
