@@ -3,24 +3,22 @@
 </div>  
   
 
-# <div align="center">个人简介</div>  
-  
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+xiaolibuzai;A+back-end+development+Engineer)](https://git.io/typing-svg)
+</div>  
 
-- ##### 河北工程大学 地理信息专业 2024届本科生 😇  
-  
 
-- ##### 2022/12 -- 2023/08，在字节跳动Golang后端实习ing 🕛  
-  
-
-- ##### Q/V:3163678221（欢迎➕ 交友,学习,捞我简历😘）  
-  
-
-- ##### 后端小萌新,欢迎大佬们指点！🥰  
-
-  
 </td></tr></table>  
 
 <br/>  
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div>
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 
 
 <div align="center">  
