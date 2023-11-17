@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+xiaolibuzai;A+back-end+development+Engineer)](https://git.io/typing-svg)
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+xiaolibuzai;A+back-end+development+Engineer)](https://git.io/typing-svg)
 </div>  
 
 
@@ -11,12 +11,12 @@
 
 <br/>  
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=xiaolibuzai-ovo" />
 </div>
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=xiaolibuzai-ovo" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaolibuzai-ovo&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
